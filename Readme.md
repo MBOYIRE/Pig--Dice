@@ -12,4 +12,8 @@ It can only count up to a provided number which is 100.
 This project was done with: HTML code,javascript,CSS
 #Contact information
 Emails:mboyire14@gmail.com
+https://github.com/MBOYIRE/Pig--Dice.git
+
 phone:0788236032/0728836032
+
+
