@@ -1,6 +1,6 @@
 #Project name
 PIG DICE GAME
-#Description.
+#Description
 This is a project which is a game.to be more precise its a roll the dice game .from the title it involves two players and also involves a dice.
 #Author
 MBOYIRE Delphine
