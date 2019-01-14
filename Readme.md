@@ -15,5 +15,7 @@ Emails:mboyire14@gmail.com
 https://github.com/MBOYIRE/Pig--Dice.git
 
 phone:0788236032/0728836032
+#Copyright and lisence
+Copyright@ Mboyire Delfine2019
 
 
