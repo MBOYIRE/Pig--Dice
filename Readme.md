@@ -10,6 +10,6 @@ Pig Dice Game  refers to the way you play it. It Score points by rolling the dic
 It can only count up to a provided number which is 100.
 #Technologies used.
 This project was done with: HTML code,javascript,CSS
-#Contact information.
+#Contact information
 Emails:mboyire14@gmail.com
 phone:0788236032/0728836032
